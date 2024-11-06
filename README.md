@@ -183,3 +183,6 @@ Contributions are welcome! See [Contributor's Guide](./docs/contributors.md)
 + **NPM Publish:** https://github.com/actions/setup-node
 + **NPM Audit Signatures:** https://github.blog/changelog/2022-07-26-a-new-npm-audit-signatures-command-to-verify-npm-package-integrity/
 + **NPM Audit:** https://github.com/marketplace/actions/npm-audit-action
+
+Nueva funcionalidad generab como ejemeplo 
+fin del cambio
